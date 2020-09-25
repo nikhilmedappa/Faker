@@ -1,0 +1,2 @@
+# Faker
+faker.js is a JavaScript library for generating fake data. Fake data is useful when building and testing our application. The faker.js can generate fake data for various areas, including address, commerce, company, date, finance, image, random, or name.
